@@ -1,0 +1,13 @@
+name = "Hexxy Skies"
+filename = "hexxyskies-fabric-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ta01udVD/versions/WGkS6F1p/hexxyskies-fabric-2.0.2.jar"
+hash-format = "sha512"
+hash = "3646b413fe3aab07a47b65cf7dba987bf79fa25837e5c4f3b73735050d2c69163cbc485e75238dd6fed56e4e6f664712dadf627793f5ed47860e6e7f6395ba4e"
+
+[update]
+[update.modrinth]
+mod-id = "ta01udVD"
+version = "WGkS6F1p"
