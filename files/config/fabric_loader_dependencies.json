@@ -1,0 +1,51 @@
+{
+    "version": 1,
+    "overrides": {
+        "hexal": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7"
+            }
+        },
+        "complexhex": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7"
+            }
+        },
+        "ephemera": {
+            "depends": {
+                "hexal": "0.3.1-821cc54"
+            }
+        },
+        "hexchanting": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7"
+            }
+        },
+        "hexic": {
+            "depends": {
+                "hexal": "0.3.1-821cc54"
+            }
+        },
+        "hexportation": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7"
+            }
+        },
+        "lessertp": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7"
+            }
+        },
+        "oneironaut": {
+            "depends": {
+                "hexal": "0.3.1-821cc54"
+            }
+        },
+        "mediatransport": {
+            "depends": {
+                "hexcasting": "0.11.3-7202ed7",
+                "figura": "0.1.5+1.20.1-fabric-mc-a5f5d5d"
+            }
+        }
+    }
+}
