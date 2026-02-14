@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/lX16Rp1p/versions/p6oDZbRg/anvil-heads-1.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "5b425ae6807622fbae1424fe4c26bdb8f1e1fc2c"
+hash-format = "sha256"
+hash = "6d9b37b343d3f968abdbb137da590fe86ce144558e758fa87e1588c8e44cb5d2"
 
 [update]
 [update.modrinth]

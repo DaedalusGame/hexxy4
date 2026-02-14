@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/A2pscGC5/versions/sVtUXAg2/hexdebug-fabric-0.8.0%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "fe26a641967656ea195796596924b540f3bbdc5c"
+hash-format = "sha256"
+hash = "733b91d290266f5958939b92483eb0eaf19bec5f919c1f1ace05eb789c406452"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/xrUchinI/expanded_ecosphere-3.2.4-fabric.jar"
-hash-format = "sha1"
-hash = "2e0676191c408715962d24569faf7b5ecd481bf7"
+hash-format = "sha256"
+hash = "be13faed84ad1fc8fb175de204e4e297ef99accf68a0d8b01c05347fcced1e61"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "xrUchinI"
 
 [option]
 optional = true
-default = false
 description = "lets your client generate worlds like the server"

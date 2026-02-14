@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/V0Hz3q2W/deathlog-0.3.2%2B1.20.jar"
-hash-format = "sha1"
-hash = "a637205931bac5fd455341d82cc32bb181d617f7"
+hash-format = "sha256"
+hash = "c19581f55447d56aa36af9898077781157c2c9a71ee092722b8f854563656255"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "V0Hz3q2W"
 
 [option]
 optional = true
-default = true
 description = "Lets you log your deaths clientside, optionally taking screenshots of deaths, and letting you restore old deaths from the server in singleplayer"
+default = true

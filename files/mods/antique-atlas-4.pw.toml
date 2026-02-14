@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/ddJjxF5n/antique-atlas-2.12.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "8e88dd7df60576da4058a39a74c47542cd87a7d1"
+hash-format = "sha256"
+hash = "6c0b87a38a4d7268d14ee46a622bff733d54e5afb95cf692185e206821cb9316"
 
 [update]
 [update.modrinth]

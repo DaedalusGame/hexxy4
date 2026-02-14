@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/9mnPo3ZV/versions/7oc0agle/jline4mcdsrv-0.6.4.jar"
-hash-format = "sha1"
-hash = "a00347aa593d5de4a052a41e0222d033d281f3e7"
+hash-format = "sha256"
+hash = "04f21edc400afaea76e85555dad922597dbb8cd134b8f8457227a9c8022a23d1"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zKp2hKIx/versions/RZBiZlXM/movesthemind-1.0.4.jar"
-hash-format = "sha1"
-hash = "6108ec4f1973aadf7d4d1c74c16f8bd511557a02"
+hash-format = "sha256"
+hash = "f519b44f1c12c1c62138b78cb137b400dae1907f6d08c99afe0abe3f2ac56334"
 
 [update]
 [update.modrinth]

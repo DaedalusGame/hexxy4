@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fin1PX4m/versions/n7VmkBLu/inline-fabric-1.20.1-1.2.2.jar"
-hash-format = "sha1"
-hash = "50ddde30688ec858bcb792bc0c93765167a32e92"
+hash-format = "sha256"
+hash = "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518"
 
 [update]
 [update.modrinth]

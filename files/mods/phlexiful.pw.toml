@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wZmv2tbP/versions/W2Tx6aRM/phlexiful-fabric-1.0.0.jar"
-hash-format = "sha1"
-hash = "b97594fc7d29d730603a32fe506c3a242a2dd2cf"
+hash-format = "sha256"
+hash = "83608862145450a67aa88b79cde5d727e465895a50fe49d0874636f3d2bcb5c0"
 
 [update]
 [update.modrinth]

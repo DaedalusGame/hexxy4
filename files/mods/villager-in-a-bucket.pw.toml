@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IAvnm8Mq/versions/YTeoUzia/villagerinabucket-1.20.1-1.4.2.jar"
-hash-format = "sha1"
-hash = "3df2e4a0ea3d6687bfcea7a7f0fa5b9d647226fc"
+hash-format = "sha256"
+hash = "24140cfdaa97525cdf467ba45bece0163618d9750e4f46684cfdb1a2e3c7547e"
 
 [update]
 [update.modrinth]

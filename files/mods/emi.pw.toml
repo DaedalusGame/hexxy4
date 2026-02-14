@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/VvPw7Vi5/emi-1.1.22%2B1.20.1%2Bfabric.jar"
-hash-format = "sha1"
-hash = "968357a16a878d1a0a2063d1d2dfc5eb2ae3ac3b"
+hash-format = "sha256"
+hash = "4d5fa18d9d3247071fe2f694c7cab95fee9530bed5c16e87096bcc94860e7a9b"
 
 [update]
 [update.modrinth]

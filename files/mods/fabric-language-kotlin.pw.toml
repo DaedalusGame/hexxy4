@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/LcgnDDmT/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
-hash-format = "sha1"
-hash = "ab71e8daf9a2d529204b5c28b3801713d22f3d46"
+hash-format = "sha256"
+hash = "77951963edd5d7d37ee4f174e37d46a871e45b973426f3b49d6725c819b4b8f2"
 
 [update]
 [update.modrinth]

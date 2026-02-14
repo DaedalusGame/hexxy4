@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
-hash-format = "sha1"
-hash = "fbf3e76abc2da1a31db0f998c39e64b69300e9bc"
+hash-format = "sha256"
+hash = "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "tBnivdbu"
 
 [option]
 optional = true
-default = false
 description = "library for expanded ecosphere"

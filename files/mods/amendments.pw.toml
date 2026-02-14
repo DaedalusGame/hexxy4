@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6iTJugQR/versions/Uzal3kfq/amendments-1.20-2.2.3-fabric.jar"
-hash-format = "sha1"
-hash = "0774f6927b12c8fad4bc211c6c5343d4f291a4e0"
+hash-format = "sha256"
+hash = "2d2fdb08a7c0e2b4d1e16f1751dece9dfb041a514714902d21d208cd2cdb1a62"
 
 [update]
 [update.modrinth]

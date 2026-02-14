@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uQ6K0yH1/versions/FEkNBdoN/hex_machina-1.0.1.jar"
-hash-format = "sha1"
-hash = "697e2bb82db6ef09a819a9367b024e87c08e678f"
+hash-format = "sha256"
+hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
 
 [update]
 [update.modrinth]

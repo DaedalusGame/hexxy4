@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/rkgXkDl7/versions/BLUue7Jp/OfflineCommands-1.0.2%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "f534926f984ff8406da3393abbd25faa7e94b9cc"
+hash-format = "sha256"
+hash = "844fc8eb7e98f992d3302c77fba009eccb6ce41cb8f9f04542f9ddc5b2e63d41"
 
 [update]
 [update.modrinth]

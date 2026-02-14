@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/s86X568j/versions/74w5ono0/ChunkyBorder-1.1.53.jar"
-hash-format = "sha1"
-hash = "ecccbc9a971d261405a150e325c09fd22d24f465"
+hash-format = "sha256"
+hash = "82e8095fcb7dd2a20896fabf363d4839d20cd164aab8c24d618113e9e2109f55"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "74w5ono0"
 
 [option]
 optional = false
-default = true
 description = "lets your client translate strings from chunky and see the worldborder (with chunky)"
+default = true

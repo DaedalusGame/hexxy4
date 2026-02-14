@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/X41LBcSD/versions/Nvh6LoSS/embeddedcomputer-0.4.1.jar"
-hash-format = "sha1"
-hash = "bb4b8d96945e7ae0f33f3c65b2c92ed641817a3a"
+hash-format = "sha256"
+hash = "17f6714df9683bed3dc71618878e33175cf35c09dae573236190112ce06d5852"
 
 [update]
 [update.modrinth]

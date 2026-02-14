@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RSeLon5O/versions/FvOkF1f8/particle_core-0.2.6%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "9eb2c47ef4141d01cb14aa2a0f8d7b727b367a3d"
+hash-format = "sha256"
+hash = "c1a5d5e4dc81844e49f90f83918a15ebad03a5833c8262fbe20eaa81952b6fbc"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "FvOkF1f8"
 
 [option]
 optional = true
-default = true
 description = "improves particle rendering and lets you set particle render percentages per particle"
+default = true

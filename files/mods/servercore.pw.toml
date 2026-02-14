@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/m978FuzE/servercore-fabric-1.5.2%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "681757921997f3ab8455a968bf77ee4f305b82ed"
+hash-format = "sha256"
+hash = "d02253ab7566f2a6632cc78c9708dd768cf77ac8123351ed63be25e4f8cb317f"
 
 [update]
 [update.modrinth]

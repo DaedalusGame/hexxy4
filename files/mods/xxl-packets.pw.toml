@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/crZrkVzH/xlpackets-fabric-1.20.1-1.0.5.jar"
-hash-format = "sha1"
-hash = "ea2e03d6e84e53ac46d16640f7dcade14ef64e8d"
+hash-format = "sha256"
+hash = "0e7a6f074eff63133f1edeffdb13a0119822a9665a4db6fb1a75d2741e7fe3f5"
 
 [update]
 [update.modrinth]

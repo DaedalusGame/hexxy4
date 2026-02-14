@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fE4Yg12d/versions/shscdcr0/DefaultedHotkeys-2.0-1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "892fd9f667ff14c3b0315c4c325797ec3cbabd85"
+hash-format = "sha256"
+hash = "74e2f3824ccc8ee4de9ef3c84ffaacc4bda939e2926938739546f5bfdaaf63df"
 
 [update]
 [update.modrinth]

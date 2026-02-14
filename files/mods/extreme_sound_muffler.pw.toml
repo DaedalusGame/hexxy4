@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/6lDRgX2g/ExtremeSoundMuffler-3.49.1-fabric-1.20.1.jar"
-hash-format = "sha1"
-hash = "099d2a64f019a73f2c03f4cd2d9c9e8cc42976d1"
+hash-format = "sha256"
+hash = "6d5a5421928c1d93422b3bccd0a65b0970e94af2ded6c0b2724c233888227fa4"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "6lDRgX2g"
 
 [option]
 optional = true
-default = true
 description = "lets you mute/change the volume of individual sounds in the game, you can even have it do things in specific areas, so you could mute a specific spell circle for example"
+default = true

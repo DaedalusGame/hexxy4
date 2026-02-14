@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/nQHYSjxO/indium-1.0.36%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "d824614e7a173d273167969f427702f51846aca7"
+hash-format = "sha256"
+hash = "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "nQHYSjxO"
 
 [option]
 optional = true
-default = true
 description = "greatly improves fps"
+default = true

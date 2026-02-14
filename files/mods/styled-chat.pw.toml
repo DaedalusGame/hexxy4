@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/doqSKB0e/versions/pwr7uYCH/styled-chat-2.2.4%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "ce0c1b16bb22f90b23b1b9b63f2b334fc56f0d52"
+hash-format = "sha256"
+hash = "c301f2f8956a0d1f6d46a7324b578d75edcedd42ddae8b43064df741d00cf418"
 
 [update]
 [update.modrinth]

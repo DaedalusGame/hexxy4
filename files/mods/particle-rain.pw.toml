@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nrikgvxm/versions/cGaEo5dv/particlerain-4.0.0-beta.3%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "39e6421c02d65aa2509fa255f272de728df5eb74"
+hash-format = "sha256"
+hash = "df1f88f2b529d92b6e38c225240394bf66b3c733d2ce4e6eb75db0480c357053"
 
 [update]
 [update.modrinth]

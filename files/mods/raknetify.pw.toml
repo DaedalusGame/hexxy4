@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5IovSY3u/versions/f9xXpYw4/raknetify-fabric-0.1.0%2Balpha.5.193-all.jar"
-hash-format = "sha1"
-hash = "d5dc2e85352ec6a42a4765da4ba688c08f471133"
+hash-format = "sha256"
+hash = "47eeffd09532cf30284e6e8e306136b9252f54b48166bb2b86a4f41810208568"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/HBkpQoBq/unloadedactivity-v0.6.3%2B1.20-1.20.1.jar"
-hash-format = "sha1"
-hash = "debeaa9ab84e7cfa6d9b7fc1477dbe3c38270b83"
+hash-format = "sha256"
+hash = "8371af7d95c0385f923e12c64924020213d6dda8ff7c8e6ebcb79dc580e383b1"
 
 [update]
 [update.modrinth]

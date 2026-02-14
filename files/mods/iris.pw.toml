@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "880c0b9ce38bb4997645793407c1801df83f4233"
+hash-format = "sha256"
+hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,4 @@ version = "s5eFLITc"
 
 [option]
 optional = true
-default = false
 description = "lets you use shaders"

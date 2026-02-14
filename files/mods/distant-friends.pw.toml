@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/ElfqWcKI/DistantFriends-fabric-1.20.1-0.5.5.jar"
-hash-format = "sha1"
-hash = "76e7c0936713645d06804d1f9ab8be2a94b4e23e"
+hash-format = "sha256"
+hash = "e720a0807bc44293f62a57fb2028ba425bec90b4ede02a99a18c9fe3fed3c384"
 
 [update]
 [update.modrinth]

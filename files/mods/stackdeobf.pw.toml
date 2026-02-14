@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar"
-hash-format = "sha1"
-hash = "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163"
+hash-format = "sha256"
+hash = "335627367b8212c17e58978866874ede8d0d9a159053fbb38e56123fff83d0f9"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dGRSMTTM/versions/hc9ISI7g/hexstruction-fabric-1.2.1%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "1730f1d8a1a6f5c49f2abdd76083283733057e68"
+hash-format = "sha256"
+hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [update]
 [update.modrinth]
