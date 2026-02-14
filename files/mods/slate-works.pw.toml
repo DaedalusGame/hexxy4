@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/3DnSSjl3/versions/Ibg3Jgfs/Slate_Work-1.2.2.jar"
 hash-format = "sha256"
-hash = "a55e78bedce0da6adf38de066ac5862f5475b34abc2f62345928c107eb3c9f74"
+hash = "812aaf1008f55d134c261aa7187096362a17b2c1ec1c3b52443ba8bf63073fbf"
 
 [update]
 [update.modrinth]
