@@ -721,10 +721,6 @@ file = "config/yigd.json"
 hash = "e30de446a5987d52f863f1d1230d17afbf5355b9b4f6ac496c36c446ee51953c"
 
 [[files]]
-file = "index.toml_"
-hash = "88910f95d50f10c3b628ec220c117dccad3147d9529ac533a7540221b232345b"
-
-[[files]]
 file = "mods/HexVR-1.6.0-85b3885.jar"
 hash = "2796f9e0966cf35a4b4430cdab5228d531cce6a131c5a4951433c5fb9c60c72b"
 
